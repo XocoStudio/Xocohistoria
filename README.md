@@ -1,7 +1,7 @@
 
-# Clipboard Manager
+# Xocohistoria ( clipboard Manager )
 
-Clipboard Manager es una aplicación desarrollada en Python que permite gestionar y organizar el historial del portapapeles, almacenar favoritos y facilitar el arrastre de imágenes y texto.
+Xocohistoria es una aplicación desarrollada en Python que permite gestionar y organizar el historial del portapapeles, almacenar favoritos y facilitar el arrastre de imágenes y texto.
 
 ## Características
 - **Historial del portapapeles:** Guarda automáticamente texto e imágenes copiados.
@@ -42,8 +42,7 @@ Clipboard Manager es una aplicación desarrollada en Python que permite gestiona
 ## Contribuciones
 Las contribuciones son bienvenidas. Realiza un fork del repositorio y envía tus pull requests.
 
-## Licencia
-Este proyecto se distribuye bajo la licencia MIT.
+
 
 ---
 
