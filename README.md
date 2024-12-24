@@ -21,7 +21,7 @@ Xocohistoria es una aplicación desarrollada en Python que permite gestionar y o
    [Descargar Clipboard Manager](https://drive.google.com/file/d/1AkRpduV_tGZtKqY_cPJ_aq_cMIKv0xxc/view?usp=sharing)
    
 ### Video de demostración
-[Ver video de demostración](https://www.youtube.com/watch?v=nRVUxPljAbw))   
+[Ver video de demostración](https://www.youtube.com/watch?v=nRVUxPljAbw)   
 
 
 ## Uso
